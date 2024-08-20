@@ -1,0 +1,154 @@
+
+
+
+body{
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+    padding: 0px;
+    font-family: monospace;
+    overflow: hidden;
+    
+}
+.main{
+    display: inline-flex;
+    margin-left: 50px;
+}
+
+header nav{
+    display: inline-flex;
+    padding: 10px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.103);
+    width: 98.6%;
+
+    background-color: rgb(225, 225, 225);
+}
+.top{
+    margin-left: 10px;
+    margin-top: 5px;
+    display: inline-flex;
+    color: rgb(22, 178, 69);
+}
+
+.medl  a{
+
+    text-decoration: none;
+    display: inline-flex;
+    margin-top: 25px;
+    padding-left:30px;
+    font-size: 16px;
+    color: black;
+    
+    
+}
+.bottom{
+    display: inline-flex;
+    height: 30px;
+    width: 100px;
+    color: rgb(7, 160, 255);
+    border-radius: 30px;
+    margin-top: 20px;
+  margin-left: 30%;
+    align-items: center;
+
+}
+.bottom a{
+    text-decoration: none;
+    font-size: 16px;
+    color: black;
+}
+.border{
+    width: 200px;
+    height: 50px;
+
+    font-size: large;
+    border: black solid 3px;
+}
+.border b p{
+    padding-left: 10px;
+}
+
+.maiin{
+    display: flex;
+    width: 100%;
+    background-color: white;
+    
+}
+.left{
+    display: inline-flex;
+    width: 60%;
+    background-color: white;
+    
+}
+.left .text{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+    font-size: 35px;
+    text-align:left;
+    margin-left: 150px;
+    margin-top: 100px;
+
+}
+.left .text b h1{
+    width: 65%;
+}
+
+.right{
+    display: inline;
+    width: 40%;
+    background-color: white;
+    margin-top: 60px;
+
+  
+}
+.google{
+    display: inline-flex;
+    border: rgb(214, 214, 214) solid ;
+    width: 70%;
+
+}
+.google span h1{
+    margin-left: 20px;
+}
+.google img{
+    margin-top: 10px;
+}
+.or{
+    margin-left: 33%;
+    font-size: x-large;
+}
+.right .form{
+    
+    display:block ;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+    margin-top: 40px;
+}
+.right .form .email{
+    width: 70%;
+    height: 7%;
+    border:rgb(225, 226, 228) ;
+    background-color: rgb(225, 226, 228);
+}
+.right .form .password{
+    width: 70%;
+    height: 7%;
+    background-color: rgb(225, 226, 228);
+    border:rgb(225, 226, 228) ;
+
+    margin-top: 20px;
+}
+.right .form p{
+    width: 70%;
+}
+.submit{
+    width: 70.7%;
+    height: 10%;
+    background-color: rgb(0, 169, 14);
+    border:rgb(17, 54, 6);
+    color: white;
+}
+section{
+    background-color: white;
+}
